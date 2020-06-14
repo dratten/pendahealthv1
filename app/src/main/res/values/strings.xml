@@ -1,3 +1,29 @@
 <resources>
     <string name="app_name">Penda Health</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nav_home">Nav Home</string>
+
+    <string-array name="navLabel">
+        <item>Home</item>
+        <item>Chats</item>
+        <item>Notifications</item>
+        <item>Profile</item>
+    </string-array>
+    <array name="navIcon">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_chat</item>
+        <item>@drawable/ic_notifications</item>
+        <item>@drawable/ic_profile</item>
+    </array>
+
+    <array name="navIconSel">
+        <item>@drawable/ic_home_sel</item>
+        <item>@drawable/ic_chat_sel</item>
+        <item>@drawable/ic_notifications_sel</item>
+        <item>@drawable/ic_profile_sel</item>
+    </array>
+
+
 </resources>
