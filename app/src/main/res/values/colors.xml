@@ -6,4 +6,6 @@
     <color name="main_pink">#E91E63</color>
     <color name="main_white">#ffff</color>
     <color name="main_blue">#3B2FE4</color>
+    <color name="main_black">#000000</color>
+    <color name="main_gray">#CDCDCD</color>
 </resources>
