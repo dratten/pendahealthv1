@@ -1,0 +1,2 @@
+rootProject.name='PendaHealthv1'
+include ':app'
